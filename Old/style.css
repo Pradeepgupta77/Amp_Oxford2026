@@ -1,0 +1,2459 @@
+#btns_col a.elementor-button,
+#print_icon .pom-default {
+    height: 120px;
+}
+
+#btns_col a.elementor-button {
+    padding: 48px 60px;
+}
+
+#print_icon .pom-default {
+    padding: 0;
+    width: 250px;
+    background-color: #cc9c58;
+    background-image: none;
+    border-left: 2px solid #4b4b4b;
+}
+
+#print_icon .pom-default:before {
+    content: 'Print';
+    position: absolute;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+    width: 100%;
+    text-align: center;
+    top: 37px;
+    font-weight: 500;
+}
+
+#print_icon .pom-default:hover {
+    background: #fff;
+}
+
+#print_icon .pom-default:hover:before {
+    color: #4b4b4b;
+}
+
+#ofltd_main_header ul.elementor-nav-menu li ul.sub-menu li a {
+    border: none;
+}
+
+#ofltd_main_header,
+.elementor-location-footer {
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+}
+
+#dir_click_info .director_details {
+    background: none;
+    padding: 0;
+    min-height: inherit;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#dir_click_info .director_details h3 {
+    background-image: url(https://2026.ofgltd.com/wp-content/uploads/sites/17/2024/11/Leaders-name-brush-stroke.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 31px 62px 31px 0;
+    text-align: center;
+}
+
+#dir_click_info .director_details h3 a {
+    position: static;
+    padding: 0;
+}
+
+#heading_plus_nav #slide_nav {
+    padding: 0;
+    margin: 0;
+}
+
+#heading_plus_nav #slide_nav ul {
+    position: static;
+}
+
+#heading_plus_nav #slide_nav ul li {
+    background: none;
+}
+
+#heading_plus_nav #slide_nav ul li:hover,
+#heading_plus_nav #slide_nav ul li.active {
+    background-color: #cc9c58;
+}
+
+#scrolbar_above_heading>div>h2>sup {
+    vertical-align: super;
+    top: -1px !important;
+    font-size: 60% !important;
+}
+
+.oxford_why_page.scroll-wrapper>.scroll-content,
+.oxford_way_fullwidth_page.scroll-wrapper>.scroll-content {
+    top: 0;
+    width: 100% !important;
+}
+
+.oxford_why_page.scrollbar-inner>.scroll-element div,
+.oxford_way_fullwidth_page.scrollbar-inner>.scroll-element div {
+    top: 0;
+}
+
+.oxford_why_page.scrollbar-inner>.scroll-element.scroll-y,
+.oxford_way_fullwidth_page.scrollbar-inner>.scroll-element.scroll-y {
+    right: -25% !important;
+}
+
+.oxford_why_page,
+.oxford_way_fullwidth_page {
+    border-radius: 0px 0px 0px 35px;
+}
+
+#print-section-home {
+    margin-top: -900px;
+    position: fixed;
+    z-index: -1;
+}
+
+#print-section-ceo {
+    margin-top: -5500px;
+    position: fixed;
+    z-index: -1;
+}
+
+#print-section-team-new {
+    margin-top: -2200px;
+    position: fixed;
+    z-index: -1;
+}
+
+#leadership_screenshort {
+    margin-top: -4700px !important;
+    position: fixed;
+    z-index: -1;
+}
+
+#print-section {
+    margin-top: -2200px;
+    position: fixed;
+    z-index: -1;
+}
+
+#print-section-1 {
+    display: table-caption;
+    z-index: -1;
+    margin-top: -200px;
+}
+
+#print-section.new_atlanta {
+    margin-top: -3200px;
+}
+
+#print-section.new_palm_beach {
+    margin-top: -2000px;
+}
+
+.qtip.qtip-default {
+    display: none !important;
+}
+
+sup {
+    font-size: x-small;
+}
+
+.qtip {
+    display: none !important;
+}
+
+#print_icon:hover .pom-default {
+    background: #fff;
+}
+
+.cbxtakeatour_popover .cbxtakeatour_popover-body {
+    background: url('/wp-content/uploads/sites/6/2022/02/acrobat.jpg') 2px 2px;
+    background-repeat: no-repeat;
+    background-size: 40px;
+    padding-left: 45px;
+}
+
+.cbxtakeatour_popover {
+    max-width: unset;
+    width: 350px;
+    background-color: #626366;
+    top: 0 !important;
+}
+
+.cbxtakeatour_popover .btn-group,
+.cbxtakeatour_popover .btn-group-vertical {
+    display: none;
+}
+
+.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation [data-role="end"] {
+    visibility: hidden;
+    position: relative;
+}
+
+.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation [data-role="end"]:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 12;
+    content: "X";
+}
+
+.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation {
+    margin-top: -47px;
+}
+
+.cbxtakeatour_popover .cbxtakeatour_popover-body {
+    color: #fff;
+}
+
+.cbxtakeatour_popover.bs-cbxtakeatour_popover-auto[x-placement^="left"] .cbxtatarrow::after,
+.cbxtakeatour_popover.bs-cbxtakeatour_popover-left .cbxtatarrow::after {
+    border-left-color: #626366;
+}
+
+#leadership_content #slide_1,
+#leadership_content #slide_2,
+#leadership_content #slide_3,
+#leadership_content #slide_4 {
+    padding: 20px;
+    background: url(https://2026.ofgltd.com/wp-content/uploads/sites/17/2023/11/team-heading-bg.png);
+    min-height: 60px;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: -7px;
+}
+
+.elementor-element.elementor-widget-hotspot {
+    display: none;
+    margin-bottom: 0;
+}
+
+.elementor-element.elementor-widget-hotspot.active {
+    display: block;
+}
+
+#leadership_click_heading p {
+    margin-bottom: 0;
+}
+
+#slide_nav {
+    margin-top: 25px;
+    background: transparent;
+    padding: 24px 30px;
+    margin-bottom: 0px;
+}
+
+#slide_nav h3 {
+    margin: 0;
+    color: #fff;
+    font-size: 21px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+#slide_nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+
+#slide_nav ul li {
+    display: inline-block;
+    padding: 5px;
+    margin: 0 30px;
+    cursor: pointer;
+    border: 3px solid #fff;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background: #20487b;
+    font-size: 30px;
+    color: #ffff;
+}
+
+#slide_nav ul li:hover,
+#slide_nav ul li.active {
+    background: #ccc265;
+    border-color: #ccc265;
+    color: #fff;
+    border: 3px solid #fff;
+}
+
+.e-hotspot__tooltip a {
+    border: 1px solid #fff;
+    background: #fff;
+    padding: 8px 20px;
+    display: inline-block;
+    border-radius: 50px;
+    text-transform: uppercase;
+}
+
+.e-hotspot__tooltip strong,
+.e-hotspot__tooltip em {
+    display: block;
+}
+
+.single-elementor_library .wrap {
+    max-width: inherit;
+    padding: 0;
+}
+
+.single-elementor_library .wrap #primary {
+    float: none;
+    width: auto;
+}
+
+.single-elementor_library .wrap #secondary,
+.single-elementor_library .wrap nav.navigation.post-navigation,
+.single-elementor_library .wrap footer.entry-footer {
+    display: none;
+}
+
+.elementor-location-footer {
+    bottom: 0;
+}
+
+#contact_address .elementor-widget.elementor-widget-icon-box {
+    width: 33.33%;
+    padding: 15px;
+}
+
+#sec_heading {
+    padding: 0;
+    top: 0;
+}
+
+#contact_address #sec_heading {
+    top: -32px;
+}
+
+#leadership_content .e-hotspot__icon:hover {
+    color: #fff;
+}
+
+#leadership_click_heading {
+    margin-bottom: 0;
+}
+
+#growth_percentage h3.elementor-icon-box-title i {
+    font-size: 80px;
+    font-style: normal;
+}
+
+#quote_with_image .elementor-image-box-content {
+    background-image: url(https://ofgltd.com/wp-content/uploads/sites/6/2021/10/quote.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 100px auto;
+    padding: 20px 0 20px 55px;
+}
+
+#scroll_col {
+    width: 100%;
+}
+
+.scroll-wrapper {
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: relative;
+}
+
+.scroll-wrapper>.scroll-content {
+    border: none !important;
+    box-sizing: content-box !important;
+    height: auto;
+    left: 0;
+    margin: 0;
+    max-height: none;
+    max-width: none !important;
+    overflow: scroll !important;
+    padding: 0;
+    position: relative !important;
+}
+
+.scroll-wrapper>.scroll-content::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+}
+
+.scroll-element {
+    display: none;
+}
+
+.scroll-element,
+.scroll-element div {
+    box-sizing: inherit;
+}
+
+.scroll-element.scroll-x.scroll-scrollx_visible,
+.scroll-element.scroll-y.scroll-scrolly_visible {
+    display: block;
+}
+
+.scroll-element .scroll-bar,
+.scroll-element .scroll-arrow {
+    cursor: default;
+}
+
+.scrollbar-inner>.scroll-element,
+.scrollbar-inner>.scroll-element div {
+    border: none;
+    padding: 0;
+    position: absolute;
+    z-index: 10;
+}
+
+.scrollbar-inner>.scroll-element div {
+    display: block;
+    height: 100%;
+    left: 0;
+    width: 100%;
+}
+
+.scrollbar-inner>.scroll-element.scroll-x {
+    bottom: 0;
+    height: 10px;
+    left: 0;
+    width: 100%;
+    display: none;
+}
+
+.scrollbar-inner>.scroll-element.scroll-y {
+    height: 100%;
+    right: 0;
+    top: 0;
+    width: 10px;
+}
+
+.scrollbar-inner>.scroll-element .scroll-element_outer {
+    overflow: hidden;
+}
+
+.scrollbar-inner>.scroll-element .scroll-element_track {
+    background-color: #f1f1f1;
+}
+
+.scrollbar-inner>.scroll-element .scroll-bar {
+    background-color: #cc9c58;
+}
+
+.scrollbar-inner>.scroll-element:hover .scroll-bar {
+    background-color: #f1f1f1;
+}
+
+.scrollbar-inner>.scroll-element.scroll-draggable .scroll-bar {
+    background-color: #cc9c58;
+}
+
+.scrollbar-inner>.scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_track {
+    left: -12px;
+}
+
+.scrollbar-inner>.scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_track {
+    top: -12px;
+}
+
+.scrollbar-inner>.scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_size {
+    left: -12px;
+}
+
+.scrollbar-inner>.scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_size {
+    top: -12px;
+}
+
+#advice_top_talent #abso_sub_heading {
+    left: 644px;
+}
+
+#quote_with_image {
+    margin-bottom: 0;
+}
+
+#annual_report {
+    left: 140px;
+    padding: 0;
+    top: 28px;
+}
+
+#home_grid {
+    padding: 20% 15% 15%;
+}
+
+#year_text {
+    right: -50px;
+    bottom: 78px;
+}
+
+#year_text h2.elementor-heading-title {
+    font-size: 260px;
+    opacity: .2;
+}
+
+#contact_year_text {
+    right: -50px;
+    bottom: -400px;
+}
+
+#contact_year_text h2.elementor-heading-title {
+    font-size: 360px;
+    opacity: .2;
+}
+
+#contact_annual_report {
+    bottom: -400px;
+}
+
+#contact_annual_report h4.elementor-heading-title {
+    font-size: 24px;
+    padding: 0;
+}
+
+#image_width .elementor-widget-testimonial .elementor-testimonial-wrapper {
+    flex-direction: column-reverse;
+    display: flex;
+}
+
+#advice_top_talent #image_width .elementor-widget-testimonial .elementor-testimonial-content {
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
+    -moz-text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
+    -webkit-text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
+}
+
+#fact_box .elementor-image-box-content {
+    border: 5px solid #902052;
+    padding: 15px;
+}
+
+#fact_box_blue .elementor-image-box-content {
+    border: 5px solid #23487a;
+    padding: 15px;
+}
+
+#fact_box .elementor-image-box-content h3.elementor-image-box-title i {
+    font-size: 80px;
+    font-style: normal;
+}
+
+#fact_box figure.elementor-image-box-img img {
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 50%);
+    -moz-box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 50%);
+    -webkit-box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 50%);
+}
+
+.elementor-location-footer .elementor-icon {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#inner_col_horizontal .elementor-container {
+    flex-direction: column;
+    max-width: inherit;
+}
+
+#inner_col_horizontal .elementor-container .elementor-column {
+    width: 100% !important;
+    top: inherit;
+    background: none;
+    padding-right: 25px;
+}
+
+#inner_col_horizontal .scroll-element {
+    margin: 0 !important;
+}
+
+#the_oxf_why_page .elementor-container {
+    height: 100vh;
+}
+
+#scroll_col .elementor-widget-wrap {
+    height: 1350px;
+}
+
+#slide_1,
+#slide_2,
+#slide_3 {
+    padding: 15px;
+    min-height: 50px;
+}
+
+.director_details h3,
+.e-hotspot__tooltip.e-hotspot--tooltip-position,
+.director_details {
+    display: none;
+}
+
+.director_details h3 {
+    font-size: 16px;
+    color: #fff;
+    margin: 0;
+}
+
+.director_details h3 strong {
+    font-size: 14px;
+}
+
+.director_details h3 strong,
+.director_details.active {
+    display: block;
+}
+
+.director_details h3 a {
+    padding: 8px 15px;
+    top: 4px;
+    font-size: 12px;
+}
+
+#slide_nav h3 {
+    font-size: 14px;
+}
+
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper label {
+    display: none;
+}
+
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_f413d12 label,
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_8985cd0 label {
+    display: inline-block !important;
+}
+
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_f413d12>label,
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_8985cd0>label {
+    font-weight: 800;
+}
+
+.elementor-field-group-field_8985cd0 {
+    display: inline;
+}
+
+.elementor-location-footer .elementor-element sup {
+    font-size: small;
+}
+
+.elementor-element sup {
+    font-size: small;
+}
+
+.ceo_p .elementor-element sup {
+    font-size: 40px;
+    top: 0;
+}
+
+.elementor-location-footer .elementor-element sup {
+    font-size: 8px;
+}
+
+.ceo_p .elementor-element em sup {
+    font-size: 24px;
+    top: -5px;
+}
+
+.ceo_p .elementor-element p em {
+    font-style: normal;
+}
+
+.elementor-262 .elementor-element.elementor-element-2a481bf:not(.elementor-motion-effects-element-type-background) {
+    background-size: 60%;
+}
+
+div#dir_click_info a {
+    display: none;
+}
+
+u {
+    cursor: pointer;
+}
+
+.oxford_timeline_text {
+    background-color: #605681;
+    text-align: center;
+}
+
+.oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+    background-color: #605681;
+    text-align: center;
+    padding: 8px 0 8px 0;
+}
+
+.elementor-location-footer h4.elementor-heading-title {
+    line-height: 1.4 !important;
+}
+
+.page-id-155 .elementor-section.elementor-section-height-full {
+    overflow-y: hidden;
+}
+
+#desktop_menu span.sub-arrow {
+    padding: 0px !important;
+}
+
+#leadership_img {
+    min-height: 78vh !important;
+}
+
+#new_color_palets {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* BY DK */
+#dynasty_trust img {
+    width: 75%;
+    padding-left: 8%;
+}
+
+.contact_text .elementor-widget-container p:first-child {
+    margin-bottom: 5px;
+}
+
+#the_oxf_why_con.why_con_sec .elementor-container {
+    align-items: center;
+}
+
+#the_oxf_why_con.why_con_sec .elementor-container .elementor-column .elementor-widget-wrap {
+    margin-top: 0;
+}
+
+/* MEDIA */
+@media screen and (max-width: 3850px) {
+    #print-section {
+        margin-top: -3150px;
+    }
+
+    #print-section-ceo {
+        margin-top: -5700px;
+    }
+
+    #print-section.value_of_team {
+        margin-top: -3500px;
+    }
+
+    #scroll_col .elementor-widget-wrap {
+        height: 850px;
+    }
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 32px !important;
+    }
+
+    #banner_art_text img {
+        width: 80%;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 26px !important;
+    }
+
+    .conclusion {
+        top: -50px !important;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        line-height: 1.3em;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li ul.sub-menu li a {
+        padding: 30px;
+        display: block;
+    }
+
+    .ceo_p .elementor-element sup {
+        font-size: 50px;
+    }
+
+    .ceo_p .elementor-element em sup {
+        font-size: 24px;
+        top: -16px;
+    }
+
+    .sup_text {
+        font-size: 34px !important;
+        top: -8px !important;
+    }
+
+    .sup_tm {
+        font-size: 36px !important;
+        top: 0;
+    }
+
+    .elementor-782 .elementor-element.elementor-element-89ef1e1 .elementor-heading-title {
+        width: 65%;
+    }
+
+    .oxford_timeline_text .elementor-widget-container h2,
+    .oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+        font-size: 40px !important;
+    }
+
+    .enquiry {
+        top: -30% !important;
+    }
+
+    .celebrating_small_text {
+        font-size: 20px !important;
+    }
+
+    .celebrating_text {
+        font-size: 24px !important;
+    }
+
+    div#private_family_timeline_heading {
+        margin-top: 25px;
+    }
+}
+
+@media screen and (max-width: 3000px) {
+    #print_icon .pom-default {
+        padding: 29px 0px 34px
+    }
+
+    #scroll_col .elementor-widget-wrap {
+        height: 800px;
+    }
+
+    #scroll_mini #scroll_col .elementor-widget-wrap {
+        height: 500px !important;
+    }
+}
+
+@media screen and (max-width: 2560px) {
+    #ofltd_main_header .elementor-widget-image img {
+        width: 60px;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li a {
+        font-size: 20px;
+        padding: 25px 35px;
+    }
+
+    #btns_col a.elementor-button {
+        padding: 25px 30px;
+        border-radius: 0;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default {
+        height: 70px;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default:before {
+        font-size: 20px;
+    }
+
+    #print_icon .pom-default {
+        width: 120px;
+    }
+
+    #print_icon .pom-default:before {
+        top: 20px;
+    }
+
+    .aspirational {
+        width: 200px;
+        top: -125px !important;
+    }
+
+    #scroll_col .elementor-widget-wrap {
+        height: 700px;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 50px !important;
+    }
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 30px !important;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 24px !important;
+    }
+
+    .contact_heading .elementor-widget-container .elementor-heading-title {
+        font-size: 16px !important;
+    }
+
+    .contact_img .elementor-widget-container img {
+        height: auto !important;
+    }
+
+    .contact_text .elementor-widget-container p {
+        font-size: 14px !important;
+    }
+
+    .contact_text_lastpera .elementor-widget-container p {
+        font-size: 18px !important;
+    }
+
+    .ceo_p .elementor-element em sup {
+        font-size: 34px;
+        top: -11px;
+    }
+
+    .sup_text {
+        font-size: 26px !important;
+        top: -8px !important;
+    }
+
+    .sup_tm {
+        font-size: 32px !important;
+        top: 0;
+    }
+
+    .oxford_timeline_text .elementor-widget-container h2,
+    .oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+        font-size: 32px !important;
+    }
+
+    .celebrating_small_text {
+        font-size: 18px !important;
+    }
+
+    .celebrating_text {
+        font-size: 22px !important;
+    }
+
+    #leadership_img {
+        min-height: 76vh !important;
+    }
+
+    #new_color_palets {
+        width: 200px;
+    }
+
+    div#private_family_timeline_heading {
+        margin-top: 0;
+    }
+
+    #print-section.value_of_team {
+        margin-top: -2400px;
+    }
+}
+
+@media screen and (max-width: 2500px) {
+    #heading_plus_nav #slide_nav ul li {
+        width: 30px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .benifit_of_liq_box .elementor-widget-wrap .elementor-widget:not(:last-child) {
+        margin-block-end: 10px;
+        text-align: center;
+    }
+
+    .benifit_of_liq_box .elementor-widget-wrap .elementor-widget .elementor-widget-container img {
+        max-width: 70%;
+    }
+}
+
+@media screen and (max-width: 2200px) {
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 26px !important;
+    }
+
+    #heading_plus_nav #slide_nav ul li {
+        margin: 0 10px;
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 40px !important;
+    }
+
+    #scroll_mini #scroll_col .elementor-widget-wrap {
+        height: 220px !important;
+    }
+}
+
+@media screen and (max-width: 2160px) {
+    #scroll_col .elementor-widget-wrap {
+        height: 500px;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 20px !important;
+    }
+
+    .enquiry {
+        top: 0% !important;
+    }
+
+    .celebrating_small_text {
+        font-size: 16px !important;
+    }
+
+    .celebrating_text {
+        font-size: 20px !important;
+    }
+}
+
+@media screen and (max-width: 1920px) {
+    #scroll_col .elementor-widget-wrap {
+        height: 450px;
+    }
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 22px !important;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 35px !important;
+    }
+
+    section#leadership_img {
+        width: 85%;
+    }
+
+    .contact_img .elementor-widget-container img {
+        height: 80px !important;
+    }
+
+    .ceo_p .elementor-element em sup {
+        font-size: 30px;
+        top: -7px;
+    }
+
+    .sup_tm {
+        font-size: 28px !important;
+        top: 0;
+    }
+
+    .sup_text {
+        font-size: 22px !important;
+        top: -7px !important;
+    }
+
+    .aspirational {
+        top: 20px !important;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li ul.sub-menu li a {
+        padding: 25px;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-35ffb1d>.elementor-widget-container {
+        padding-right: 140px !important;
+    }
+
+    .oxford_timeline_text .elementor-widget-container h2,
+    .oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+        font-size: 26px !important;
+    }
+
+    .celebrating_small_text {
+        font-size: 14px !important;
+    }
+
+    .celebrating_text {
+        font-size: 18px !important;
+    }
+
+    #print-section {
+        margin-top: -2100px;
+    }
+
+    .contact_text .elementor-widget-container p:last-child {
+        margin-bottom: 0;
+    }
+
+    #contact_page .elementor-element.contact_heading.elementor-widget.elementor-widget-heading {
+        margin-bottom: 8px;
+    }
+
+    #new_color_palets {
+        width: 120px;
+    }
+
+    #heading_plus_nav .elementor-heading-title {
+        font-size: 35px;
+    }
+
+    .oxford_growth_print {
+        margin-top: -2300px !important;
+    }
+
+    .contact_text .elementor-widget-container p {
+        font-size: 11px !important;
+    }
+
+    .contact_text_lastpera .elementor-widget-container p {
+        font-size: 14px !important;
+    }
+
+    .contact_heading .elementor-widget-container .elementor-heading-title {
+        font-size: 15px !important;
+    }
+
+    #contact_page {
+        padding-right: 20%;
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    #ofltd_main_header ul.elementor-nav-menu li a {
+        font-size: 16px;
+        padding: 20px 30px;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default:before {
+        font-size: 16px;
+    }
+
+    .celebrating,
+    .aspirational {
+        top: 0px !important;
+    }
+
+    #ofltd_main_header .elementor-widget-image img {
+        width: 50px;
+    }
+
+    h3.elementor-image-box-title {
+        font-size: 16px !important;
+    }
+}
+
+@media screen and (max-width: 1680px) {
+    #banner_art_text img {
+        width: 80%;
+    }
+
+    #scroll_col .elementor-widget-wrap {
+        height: 350px;
+    }
+
+    #scroll_mini #scroll_col .elementor-widget-wrap {
+        height: 170px !important;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 36px !important;
+    }
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 20px !important;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 20px !important;
+    }
+
+    #print-section {
+        margin-top: -2200px;
+    }
+
+    .sup_tm {
+        font-size: 24px !important;
+        top: 0;
+    }
+
+    .sup_text {
+        font-size: 18px !important;
+        top: -5px !important;
+    }
+
+    .ceo_p .elementor-element em sup {
+        font-size: 24px;
+        top: -7px;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li ul.sub-menu li a {
+        padding: 20px;
+    }
+
+    #heading_plus_nav #slide_nav ul li {
+        margin: 0 10px;
+        width: 36px;
+        height: 36px;
+        font-size: 18px;
+    }
+
+    #slide_nav ul li {
+        padding: 3px;
+    }
+
+    .oxford_timeline_text .elementor-widget-container h2,
+    .oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+        font-size: 22px !important;
+    }
+
+}
+
+@media screen and (max-width: 1600px) {
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 30px !important;
+    }
+
+    .scroll_col_benefit .elementor-widget-wrap {
+        height: 200px !important;
+    }
+
+    #heading_plus_nav .elementor-heading-title {
+        font-size: 30px;
+    }
+
+    .oxford_timeline_text .elementor-widget-container h2,
+    .oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+        font-size: 20px !important;
+    }
+
+    #new_color_palets {
+        width: 100px;
+    }
+
+    .oxford_growth_print {
+        margin-top: 0 !important;
+    }
+}
+
+@media screen and (max-width: 1536px) {
+    #ofltd_main_header ul.elementor-nav-menu li a {
+        font-size: 14px;
+        padding: 22px 25px;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default:before {
+        font-size: 14px;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default {
+        height: 64px;
+    }
+
+    #btns_col a.elementor-button {
+        padding: 26px 25px;
+    }
+
+    #print_icon .pom-default:before {
+        top: 22px;
+    }
+
+    #print_icon .pom-default {
+        width: 100px;
+    }
+
+    #banner_art_text img {
+        width: 75%;
+    }
+
+    h3.elementor-image-box-title {
+        font-size: 12px !important;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 14px !important;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li ul.sub-menu li a {
+        padding: 16px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    #scroll_col .elementor-widget-wrap {
+        height: 300px;
+    }
+
+    .contact_img .elementor-widget-container img {
+        height: 80px !important;
+    }
+
+    #heading_plus_nav #slide_nav ul li {
+        margin: 0 4px;
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+
+    #slide_nav ul li {
+        padding: 2px;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 28px !important;
+    }
+
+    #heading_plus_nav .elementor-heading-title {
+        font-size: 28px;
+    }
+
+    element.elementor-element-399d1804>.elementor-element-populated {
+        padding-right: 10%;
+    }
+
+    .elementor-element sup {
+        font-size: smaller;
+    }
+
+    .elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+        padding: 5px;
+    }
+
+    .celebrating_small_text {
+        font-size: 11px !important;
+    }
+
+    .celebrating_text {
+        font-size: 14px !important;
+    }
+
+    #new_color_palets {
+        width: 90px;
+    }
+
+    #print-section {
+        margin-top: -1600px;
+    }
+
+    .the_oxford_difference_print {
+        margin-top: -2100px !important;
+    }
+
+    .oxford_growth_print {
+        margin-top: -2250px !important;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 20px !important;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-2a481bf {
+        padding-top: 5% !important;
+    }
+}
+
+@media screen and (max-width: 1400px) and (max-height: 1216px) {}
+
+@media screen and (max-width: 1367px) {
+    #scroll_col .elementor-widget-wrap {
+        height: 250px;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 25px !important;
+    }
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 14px !important;
+    }
+
+    .contact_heading .elementor-widget-container .elementor-heading-title {
+        font-size: 14px !important;
+    }
+
+    .contact_img .elementor-widget-container img {
+        height: 70px !important;
+    }
+
+    .contact_text .elementor-widget-container p {
+        font-size: 10px !important;
+    }
+
+    .contact_text_lastpera .elementor-widget-container p {
+        font-size: 13px !important;
+    }
+
+    #heading_plus_nav .elementor-heading-title {
+        font-size: 25px;
+    }
+
+    #scroll_mini #scroll_col .elementor-widget-wrap {
+        height: 140px !important;
+    }
+
+    #banner_art_text img {
+        width: 70%;
+    }
+
+    div#ceo_img {
+        width: 85%;
+    }
+
+    section#leadership_img {
+        width: 90%;
+    }
+
+    .director_details h3 {
+        font-size: 14px;
+    }
+
+    #contact_page {
+        padding-right: 25%;
+    }
+
+    #contact_page .elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+        padding: 5px;
+    }
+
+    #contact_page .elementor-widget:not(:last-child) {
+        margin-block-end: 10px;
+    }
+
+    .sup_text {
+        font-size: 12px !important;
+        top: -5px !important;
+    }
+
+    .sup_tm {
+        font-size: 20px !important;
+    }
+
+    .ceo_p .elementor-element em sup {
+        font-size: 16px;
+        top: -5px;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-35ffb1d>.elementor-widget-container {
+        padding-right: 136px !important;
+    }
+
+    .elementor-882 .elementor-element.elementor-element-45799ae0 {
+        padding-top: 8% !important;
+    }
+
+    .elementor-element sup {
+        font-size: smaller;
+    }
+
+    .contact_sec {
+        padding-right: 1% !important;
+    }
+}
+
+@media screen and (max-width: 1365px) {
+    #print_icon .pom-default {
+        width: 90px;
+    }
+
+    #btns_col a.elementor-button {
+        padding: 20px;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li a {
+        font-size: 13px;
+        padding: 16px 25px;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default:before {
+        font-size: 13px;
+    }
+
+    #print_icon .pom-default:before {
+        top: 17px;
+    }
+
+    #print_icon .pom-default {
+        padding: 18px 0px 18px;
+    }
+
+    #btns_col a.elementor-button,
+    #print_icon .pom-default {
+        height: 52px;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 14px !important;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-ae9386a {
+        width: 30.987%;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+
+    .ceo_icon_box .elementor-widget-container .elementor-icon-box-wrapper .elementor-icon-box-content .elementor-icon-box-title,
+    .ceo_icon_box .elementor-widget-container .elementor-icon-box-wrapper .elementor-icon-box-content .elementor-icon-box-description {
+        font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width: 1291px) {
+    #scroll_col .elementor-widget-wrap {
+        height: 250px;
+    }
+
+    #the_oxf_why_right .elementor-heading-title {
+        font-size: 22px;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 22px !important;
+    }
+
+    #heading_plus_nav .elementor-heading-title {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-device-width: 1366px) and (orientation: landscape) {}
+
+@media screen and (device-width: 1024px) and (orientation: portrait) {}
+
+@media screen and (max-width: 1200px) {
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 13px !important;
+    }
+
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 26px !important;
+    }
+
+    .elementor-287 .elementor-element.elementor-element-de0cfbe .elementor-heading-title {
+        font-size: 40px !important;
+    }
+}
+
+@media screen and (max-width: 1280px) and (min-height:1000px) {
+    .the_oxford_difference_print {
+        margin-top: -2116px !important;
+    }
+}
+
+@media screen and (max-width: 1279px) {
+    #the_oxf_why_con .elementor-container {
+        flex-direction: column;
+    }
+
+    #the_oxf_why_page #the_oxf_why_right,
+    #the_oxf_why_page #the_oxf_why_left {
+        height: inherit;
+        width: 100% !important;
+    }
+
+    #scroll_col .elementor-widget-wrap {
+        height: inherit;
+    }
+
+    #scroll_mini #scroll_col .elementor-widget-wrap {
+        height: inherit !important;
+    }
+
+    #scroll_col {
+        overflow: initial !important;
+        position: relative !important;
+    }
+
+    #scroll_col .scrollbar-inner {
+        overflow: initial !important;
+        position: relative !important;
+    }
+
+    #inner_col_horizontal .scroll-element {
+        display: none;
+    }
+
+    .scrollbar-inner>.scroll-element.scroll-y {
+        display: none !important;
+    }
+
+    .elementor-2006 .elementor-element.elementor-element-10cb016 .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+        width: 105vw !important;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li a {
+        font-size: 12px;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li a {
+        padding: 11px 11px !important;
+    }
+
+    .elementor-location-footer {
+        position: absolute !important;
+        width: 100%;
+        bottom: 0;
+    }
+
+    .ceo_footer_heading_black .elementor-widget-wrap .elementor-element .elementor-widget-container h4 {
+        color: #000000 !important;
+    }
+
+    .ceo_footer_heading_white .elementor-widget-wrap .elementor-element .elementor-widget-container h4 {
+        color: #ffffff !important;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 22px !important;
+    }
+
+    .inner_imgbox_con .elementor-container {
+        flex-direction: row !important;
+    }
+
+    #fullpage {
+        transform: none !important;
+    }
+
+    /* full page width  */
+    .page-id-5206 .elementor-section.elementor-section-height-full,
+    .page-id-345 .elementor-section.elementor-section-height-full,
+    .page-id-827 .elementor-section.elementor-section-height-full,
+    .page-id-833 .elementor-section.elementor-section-height-full,
+    .page-id-4253 .elementor-section.elementor-section-height-full,
+    .page-id-844 .elementor-section.elementor-section-height-full,
+    .page-id-842 .elementor-section.elementor-section-height-full,
+    .page-id-825 .elementor-section.elementor-section-height-full,
+    .page-id-153 .elementor-section.elementor-section-height-full,
+    .page-id-6464 .elementor-section.elementor-section-height-full,
+    .page-id-9243 .elementor-section.elementor-section-height-full,
+    .page-id-9236 .elementor-section.elementor-section-height-full,
+    .page-id-4256 .elementor-section.elementor-section-height-full,
+    .page-id-9201 .elementor-section.elementor-section-height-full,
+    .page-id-837 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+
+
+    .page-id-8467 .elementor-section.elementor-section-height-full,
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+
+    #inquriy_now>.elementor-container {
+        flex-direction: column;
+    }
+
+    #inquriy_now>.elementor-container .elementor-column {
+        width: 100% !important;
+    }
+
+    #inquriy_now>.elementor-container .elementor-column .elementor-column section .elementor-column:first-child {
+        width: 10% !important;
+    }
+
+    #inquriy_now>.elementor-container .elementor-column .elementor-column.elementor-col-33 {
+        width: 30% !important;
+    }
+
+    #heading_plus_nav #slide_nav ul li {
+        margin: 0px 5px;
+        width: 30px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    #ofltd_main_header ul.elementor-nav-menu li ul.sub-menu li a {
+        display: flex;
+    }
+
+    #slide_nav ul li {
+        padding: 5px;
+    }
+
+    #leadership>.elementor-container {
+        flex-direction: column;
+    }
+
+    #dir_click_info .director_details {
+        background: none;
+        padding: 0;
+        min-height: inherit;
+        width: 500px;
+        margin: 20px auto 0;
+        text-align: center;
+    }
+
+    .director_details h3 {
+        font-size: 16px;
+    }
+
+    .elementor-204 .elementor-element.elementor-element-f56a827 {
+        z-index: 1 !important;
+    }
+
+    #celebrating>.elementor-container {
+        align-items: start !important;
+    }
+
+    #print-section {
+        margin-top: -1600px;
+    }
+
+    #print-section-ceo {
+        margin-top: -1600px;
+    }
+
+    .the_oxford_difference_print {
+        margin-top: -2500px !important;
+    }
+
+    .elementor-section.elementor-section-items-middle>.elementor-container {
+        align-items: flex-start !important;
+    }
+
+    #new_color_palets {
+        top: 25% !important;
+    }
+
+    #new_color_palets.fix_color_palets {
+        width: 70px;
+        position: fixed;
+        top: 100px !important;
+        transform: none;
+    }
+
+    #new_color_palets.unfix_color_palets {
+        top: 100px !important;
+        transform: none;
+        width: 70px;
+    }
+
+    .oxford_growth_print {
+        margin-top: -2800px !important;
+    }
+
+    /* BY DK */
+    #dynasty_trust img {
+        width: 400px;
+        padding-bottom: 20%;
+        padding-top: 15%;
+        padding-left: 0;
+    }
+
+    .oxford_growth_print.oxford_growth_print {
+        margin-top: -3100px !important;
+    }
+
+    #inner_imgbox_con_mobile {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width: 1279px) and (max-height: 900px) {
+
+    .page-id-149 .elementor-section.elementor-section-height-full,
+    .page-id-8467 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+}
+
+@media screen and (max-width: 1279px) and (min-height: 900px) {
+
+    .page-id-149 .elementor-section.elementor-section-height-full,
+    .page-id-153 .elementor-section.elementor-section-height-full,
+    .page-id-8467 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+}
+
+@media screen and (max-width: 1279px) and (min-height: 1000px) {
+
+    .page-id-8467 .elementor-section.elementor-section-height-full,
+    .page-id-4253 .elementor-section.elementor-section-height-full,
+    .page-id-844 .elementor-section.elementor-section-height-full,
+    .page-id-149 .elementor-section.elementor-section-height-full,
+    .page-id-153 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+}
+
+@media screen and (max-width: 1279px) and (min-height: 1200px) {
+
+    .page-id-842 .elementor-section.elementor-section-height-full,
+    .page-id-4256 .elementor-section.elementor-section-height-full,
+    .page-id-149 .elementor-section.elementor-section-height-full,
+    .page-id-6464 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+
+    div#the_oxf_why_right {
+        height: 60vh !important;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+
+    /* .page-id-8467 .elementor-section.elementor-section-height-full, */
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+}
+
+@media screen and (max-width: 1195px) {
+    /* .why_con_sec #inner_col_horizontal {
+        padding-top: 0 !important;
+    } */
+}
+
+@media screen and (max-width: 1100px) and (orientation: portrait) {
+    #contact_page {
+        padding-right: 10%;
+    }
+}
+
+@media screen and (max-width: 1279px) and (orientation: landscape) {
+    #leadership {
+        background-image: url('https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/01/tab-bg.jpg');
+    }
+}
+
+@media screen and (max-width: 1032px) and (max-height: 1302px) {
+    .elementor-section.elementor-section-items-middle>.elementor-container {
+        align-items: flex-start !important;
+    }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 850px) {
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+}
+
+@media screen and (max-width: 1024px) and (max-height: 700px) {
+    .page-id-155 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .page-id-8467 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+
+    #celebrayion_img_con .elementor-container {
+        flex-wrap: wrap;
+    }
+
+    #celebrayion_img_con .elementor-container #celebrayion_img_con_colone,
+    #celebrayion_img_con .elementor-container #celebrayion_img_con_coltwo {
+        width: 100%;
+    }
+
+    /* #leadership {
+        background-image: url('https://2026.ofgltd.com/wp-content/uploads/sites/17/2021/10/bg3-1.jpg');
+    } */
+
+}
+
+@media screen and (max-width: 980px) {}
+
+@media screen and (max-width: 900px) {
+    .elementor-287 .elementor-element.elementor-element-de0cfbe .elementor-heading-title {
+        font-size: 24px !important;
+    }
+
+    .page-id-9201 .elementor-section.elementor-section-height-full,
+    .page-id-846 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+
+    .elementor-882 .elementor-element.elementor-element-45799ae0 {
+        padding-bottom: 6% !important;
+    }
+
+    #leadership {
+        padding-top: 10%;
+    }
+}
+
+@media screen and (max-width: 840px) {
+
+    .page-id-4253 .elementor-section.elementor-section-height-full,
+    .page-id-825 .elementor-section.elementor-section-height-full,
+    .page-id-4256 .elementor-section.elementor-section-height-full,
+    .page-id-844 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+}
+
+@media screen and (device-width: 800px) and (device-height: 1180px) {}
+
+@media screen and (max-width: 769px) {
+
+    /* footer */
+    .footer .elementor-column-gap-default .elementor-column {
+        width: 100% !important;
+        text-align: center;
+        padding-bottom: 15px !important;
+    }
+
+    .footer .elementor-column-gap-default {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+
+    .footer .elementor-column-gap-default .elementor-column>.elementor-widget-wrap {
+        justify-content: center !important;
+    }
+
+    /* cunclusion */
+    .conclusion {
+        top: 25px !important;
+    }
+
+    /* contact */
+    .contact_img .elementor-widget-container img {
+        height: auto !important;
+    }
+
+    .contact_heading .elementor-widget-container .elementor-heading-title {
+        font-size: 16px !important;
+    }
+
+    .contact_text .elementor-widget-container p {
+        font-size: 12px !important;
+    }
+
+    .contact_text_lastpera .elementor-widget-container p {
+        font-size: 14px !important;
+    }
+
+    #dir_click_info .director_details {
+        width: 400px;
+    }
+
+    #dir_click_info .director_details h3 {
+        padding: 60px 40px 60px 0px;
+    }
+
+    .director_details h3 {
+        font-size: 14px;
+    }
+
+    .director_details h3 strong {
+        font-size: 10px;
+    }
+
+    #heading_plus_nav #slide_nav ul li {
+        margin: 10px 10px;
+        width: 30px;
+        height: 30px;
+        font-size: 11px;
+    }
+
+    .inner_imgbox_con .elementor-container {
+        flex-direction: column !important;
+    }
+
+    .way_page_heading,
+    #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
+        font-size: 14px !important;
+    }
+
+    .side_pera_text .elementor-widget-container p {
+        font-size: 16px !important;
+    }
+
+    .oxford_number_mob_ros_img {
+        text-align: center !important;
+    }
+
+    .page-id-153 .elementor-section.elementor-section-height-full,
+    .page-id-155 .elementor-section.elementor-section-height-full,
+    .page-id-4256 .elementor-section.elementor-section-height-full,
+    .page-id-4253 .elementor-section.elementor-section-height-full,
+    .page-id-844 .elementor-section.elementor-section-height-full,
+    .page-id-842 .elementor-section.elementor-section-height-full,
+    .page-id-8467 .elementor-section.elementor-section-height-full,
+    .page-id-846 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+
+    #inquriy_now>.elementor-container .elementor-column .elementor-column.elementor-col-33 {
+        width: 100% !important;
+    }
+
+    #inquriy_now>.elementor-container .elementor-column .elementor-column section .elementor-column:first-child {
+        width: 100% !important;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-35ffb1d>.elementor-widget-container {
+        background-size: contain !important;
+    }
+
+    #print-section.new_atlanta {
+        margin-top: -2900px;
+    }
+
+    .elementor-287 .elementor-element.elementor-element-de0cfbe>.elementor-widget-container {
+        padding-left: 7% !important;
+    }
+
+    .elementor-782 .elementor-element.elementor-element-1b288c84 {
+        padding-top: 10% !important;
+    }
+
+    .elementor-container.elementor-column-gap-default {
+        flex-wrap: wrap;
+    }
+
+    #slide_nav ul li {
+        padding: 5px;
+    }
+
+    .sup_tm {
+        font-size: 16px !important;
+    }
+
+    .ceo_p .elementor-element em sup {
+        font-size: 16px;
+        top: -2px;
+    }
+
+    .sup_text {
+        font-size: 12px !important;
+        top: -3px !important;
+    }
+
+    .elementor-782 .elementor-element.elementor-element-89ef1e1 .elementor-heading-title {
+        width: 95%;
+    }
+
+    #contact_page {
+        padding-right: 5%;
+    }
+
+    #print-section {
+        margin-top: -2400px;
+    }
+
+    div.benfit_year_img {
+        width: 100% !important;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-35ffb1d>.elementor-widget-container {
+        padding-right: 54px !important;
+        padding-left: 10px !important;
+        padding-bottom: 50px !important;
+    }
+
+    .benifit_of_liq_box .elementor-widget-wrap .elementor-widget .elementor-widget-container img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .benfit_year_img .elementor-widget-container img {
+        height: 61px;
+        width: 200px;
+    }
+
+    section#leadership_img {
+        width: 100%;
+    }
+
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        overflow-x: hidden;
+    }
+
+    .elementor-204 .elementor-element.elementor-element-1f4ca591:not(.elementor-motion-effects-element-type-background) {
+        background-position: bottom right -490px !important;
+    }
+
+    .oxford_timeline_text {
+        width: 85% !important;
+    }
+
+    .oxford_timeline_text_befitofliq .elementor-widget-container {
+        margin-left: 11% !important;
+        text-align: center;
+    }
+
+    .oxford_timeline_text_befitofliq .elementor-widget-container h2 {
+        width: 85% !important;
+    }
+
+    .way_page_heading {
+        line-height: 1.3em;
+    }
+
+    .inner_imgbox_con .elementor-column.elementor-col-33 {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    #gap_manage_for_mobile_tab .elementor-widget-wrap {
+        padding-right: 4%;
+        padding-bottom: 22%;
+    }
+
+    #gap_manage_for_mobile_tab .elementor-widget-wrap .elementor-widget-wrap {
+        padding: 18px;
+    }
+
+    #celebrayion_img_con #celebrayion_img_con_colone {
+        width: 100%;
+    }
+
+    #celebrayion_img_con #celebrayion_img_con_coltwo {
+        width: 100%;
+        padding-bottom: 10%;
+    }
+
+    #the_oxf_why_right .elementor-widget-wrap {
+        padding-bottom: 15%;
+    }
+
+    .home_footer_btn {
+        order: 1;
+    }
+}
+
+@media screen and (max-width: 769px) and (max-height: 900px) {
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+}
+
+@media screen and (max-width: 744px) {
+    #dir_click_info .director_details h3 {
+        background-image: url(https://2026.ofgltd.com/wp-content/uploads/sites/17/2024/12/Leaders-name-brush-stroke2.png);
+        width: auto;
+        text-align: center;
+        margin: 0 !important;
+        background-size: 100% auto !important;
+    }
+
+}
+
+@media screen and (device-width: 744px) and (device-height: 1059px) {}
+
+@media screen and (max-device-width: 1350px) and (orientation: landscape) {
+    #the_oxf_why_con .elementor-container.elementor-column-gap-default {
+        height: 100%;
+    }
+
+    /* .why_con_sec #inner_col_horizontal {
+        padding-top: 15%;
+    } */
+}
+
+@media screen and (max-width: 1200px) and (orientation: landscape) {
+
+    .page-id-9201 .elementor-section.elementor-section-height-full,
+    .page-id-4253 .elementor-section.elementor-section-height-full,
+    .page-id-4256 .elementor-section.elementor-section-height-full,
+    .page-id-844 .elementor-section.elementor-section-height-full,
+    .page-id-153 .elementor-section.elementor-section-height-full,
+    .page-id-149 .elementor-section.elementor-section-height-full,
+    .page-id-846 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+
+    #inner_imgbox_con {
+        padding-bottom: 10%;
+    }
+}
+
+@media screen and (max-device-width: 1350px) and (max-device-height:1033px) and (orientation: landscape) {
+
+    /* .page-id-8467 .elementor-section.elementor-section-height-full,
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    } */
+
+}
+
+@media screen and (max-device-width: 1000px) and (orientation: landscape) {}
+
+@media screen and (max-device-width: 1200px) and (orientation: landscape) {
+    /* .elementor-section.elementor-section-height-full {
+        height: auto;
+    } */
+
+    .con {
+        height: auto !important;
+    }
+
+    #the_oxf_why_right {
+        height: 100vh;
+    }
+
+    div#the_oxf_why_right {
+        height: auto;
+    }
+
+    #the_oxf_why_right .elementor-widget-wrap {
+        padding-top: 15%;
+    }
+
+    .elementor-4255 .elementor-element.elementor-element-6113608,
+    .elementor-882 .elementor-element.elementor-element-45799ae0 {
+        padding-bottom: 6% !important;
+    }
+
+    .oxford_growth_print {
+        margin-top: -3000px !important;
+    }
+
+    .elementor-287 .elementor-element.elementor-element-de0cfbe .elementor-heading-title {
+        font-size: 26px !important;
+    }
+
+
+}
+
+@media screen and (max-width: 1100px) and (orientation: landscape) {}
+
+@media screen and (max-device-width: 1100px) and (max-device-height: 650px) and (orientation: landscape) {}
+
+@media screen and (min-device-width: 1033px) and (min-device-width: 1303px) and (orientation: landscape) {
+
+    .page-id-844 .elementor-section.elementor-section-height-full {
+        height: 100vh !important;
+    }
+}
+
+@media screen and (max-device-width: 1000px) and (orientation: landscape) {
+    #the_oxf_why_right {
+        height: auto !important;
+    }
+
+    section#leadership_img {
+        padding-bottom: 20%;
+    }
+
+    #home_img_sec {
+        padding: 8% 0% 0% 8%;
+    }
+
+    #leadership {
+        padding: 10% 10% 0% 10%;
+    }
+
+    #celebrating {
+        padding-top: 10%;
+    }
+
+    .page-id-149 .elementor-section.elementor-section-height-full {
+        height: auto !important;
+    }
+
+    #leadership_img {
+        min-height: 100vh !important;
+    }
+
+
+}
+
+@media screen and (max-device-width: 900px) and (orientation: landscape) {
+    #banner_art_text img {
+        width: 35%;
+    }
+
+    .elementor-882 .elementor-element.elementor-element-745d8944>.elementor-element-populated {
+        padding-top: 5% !important;
+    }
+
+    .oxford_growth_print {
+        margin-top: 0 !important;
+    }
+
+    #gap_manage_for_mobile_tab .elementor-widget-wrap {
+        padding-bottom: 0px;
+    }
+
+    .elementor-4255 .elementor-element.elementor-element-0bdbefd {
+        padding-bottom: 10% !important;
+    }
+
+    .elementor-location-footer {
+        z-index: 5;
+    }
+
+    ul#menu-2-10cb016 {
+        height: 250px;
+        overflow-x: scroll;
+    }
+
+    #conclusions_page {
+        padding-top: 10%;
+    }
+
+    #conclusions_page .elementor-widget-wrap.elementor-element-populated {
+        padding-bottom: 5%;
+    }
+}
+
+@media screen and (max-device-width: 740px) and (orientation: landscape) {
+    #leadership {
+        padding-top: 10%;
+    }
+}
+
+@media screen and (max-device-height: 500px) and (orientation: landscape) {
+
+    #new_color_palets.unfix_color_palets,
+    #new_color_palets.fix_color_palets {
+        width: 55px;
+    }
+}
+
+@media screen and (max-device-height: 370px) and (orientation: landscape) {
+
+    #new_color_palets.unfix_color_palets,
+    #new_color_palets.fix_color_palets {
+        top: 70px !important;
+    }
+}
+
+@media screen and (max-width: 599px) {
+
+    /* BY DK */
+    #dynasty_trust img {
+        padding-top: 10%;
+        padding-bottom: 25%;
+        width: 320px;
+    }
+
+    .contact_text .elementor-widget-container p:first-child {
+        margin-bottom: 20px;
+    }
+
+    .contact_text_lastpera .elementor-widget-container p {
+        font-size: 22px !important;
+    }
+}
+
+@media screen and (max-width: 567px) {}
+
+@media screen and (max-width: 500px) {
+    h1.elementor-heading-title.elementor-size-default {
+        font-size: 22px !important;
+    }
+
+    .elementor-262 .elementor-element.elementor-element-35ffb1d>.elementor-widget-container {
+        padding: 30px 25px 30px 15px !important;
+    }
+
+    .ceo_icon_box .elementor-widget-container .elementor-icon-box-wrapper .elementor-icon-box-content .elementor-icon-box-title,
+    .ceo_icon_box .elementor-widget-container .elementor-icon-box-wrapper .elementor-icon-box-content .elementor-icon-box-description {
+        font-size: 10px !important;
+    }
+
+    #print-section.new_atlanta {
+        margin-top: -3800px;
+    }
+
+    #slide_nav ul li {
+        padding: 2px;
+    }
+
+    #heading_plus_nav #slide_nav ul li {
+        margin: 10px 3px;
+        width: 25px;
+        height: 25px;
+        font-size: 12px;
+        border: 2px solid;
+    }
+
+    #print-section {
+        margin-top: -2800px;
+    }
+
+    .elementor-4250 .elementor-element.elementor-element-609f20a0>.elementor-element-populated {
+        padding-top: 5% !important;
+    }
+
+    .elementor-element sup {
+        font-size: smaller;
+    }
+
+    .elementor-882 .elementor-element.elementor-element-5a33bbd9>.elementor-widget-container {
+        padding-top: 15% !important;
+    }
+
+    .elementor-906 .elementor-element.elementor-element-3ee633ed>.elementor-element-populated {
+        padding-top: 10% !important;
+    }
+
+    .elementor-879 .elementor-element.elementor-element-2a70b1df>.elementor-element-populated {
+        padding-top: 10% !important;
+    }
+
+    #dir_click_info .director_details {
+        width: 250px;
+    }
+
+    #dir_click_info .director_details h3 {
+        padding: 35px 40px 35px 0px;
+    }
+
+    .director_details h3 {
+        font-size: 12px;
+    }
+
+    .the_oxford_difference_print {
+        margin-top: -2850px !important;
+    }
+
+    #print-section {
+        margin-top: -900px;
+    }
+
+    .oxford_growth_print {
+        margin-top: 0 !important;
+    }
+
+    #the_oxf_why_right .elementor-widget-wrap {
+        padding-bottom: 23%;
+    }
+
+    .oxford_growth_print.oxford_growth_print {
+        margin-top: 0 !important;
+    }
+
+    #leadership {
+        padding-top: 30%;
+    }
+
+    #leadership_img {
+        min-height: 68vh !important;
+    }
+}
+
+@media screen and (max-width: 500px) and (max-height: 800px) {}
+
+@media screen and (max-width: 479px) {}
+
+@media screen and (max-width: 413px) {
+    .elementor-287 .elementor-element.elementor-element-de0cfbe .elementor-heading-title {
+        font-size: 24px !important;
+    }
+}
+
+@media screen and (max-width: 374px) {}
+
+@media screen and (max-width: 359px) {}
+
+@media screen and (min-width: 1201px) and (max-width: 1920px) {
+    .elementor-section.elementor-section-height-full>.elementor-container {
+        height: 100% !important;
+    }
+}

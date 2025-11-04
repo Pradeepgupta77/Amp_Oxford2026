@@ -10,9 +10,9 @@
 #print_icon .pom-default {
     padding: 0;
     width: 250px;
-    background-color: #cc9c58;
+    /* background-color: #cc9c58; */
     background-image: none;
-    border-left: 2px solid #4b4b4b;
+    /* border-left: 2px solid #4b4b4b; */
 }
 
 #print_icon .pom-default:before {
@@ -28,7 +28,7 @@
 }
 
 #print_icon .pom-default:hover {
-    background: #fff;
+    /* background: #fff; */
 }
 
 #print_icon .pom-default:hover:before {
@@ -170,7 +170,7 @@ sup {
 }
 
 #print_icon:hover .pom-default {
-    background: #fff;
+    /* background: #fff; */
 }
 
 .cbxtakeatour_popover .cbxtakeatour_popover-body {
@@ -728,7 +728,49 @@ u {
 #the_oxf_why_con.why_con_sec .elementor-container .elementor-column .elementor-widget-wrap {
     margin-top: 0;
 }
-
+/* 2026 Start */
+/* #footer_leftbtn_2026 .elementor-button-wrapper,
+#footer_rightbtn_2026 .elementor-button-wrapper{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+} */
+ #footer_leftbtn_2026 .elementor-button,
+#footer_rightbtn_2026 .elementor-button ,
+#menu_download_btn_2026 .elementor-button,
+#print_icon .elementor-shortcode{    
+    background: transparent;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat !important;
+    border: none;
+    transition: all 0.3s ease-in-out;
+    border-radius: 0 !important;
+}
+#print_icon .elementor-shortcode{
+    background-image: url('https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/print.png');
+    width: 100px;
+}
+#menu_download_btn_2026 .elementor-button{
+    background-image: url('https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/download-pdf.png');
+    width: 188px;
+}
+#footer_leftbtn_2026 .elementor-button{
+    background-image: url('https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/left.png');
+    width: 105px;
+}
+#footer_rightbtn_2026 .elementor-button {
+    background-image: url('https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/right.png');
+    width: 105px;
+}
+#footer_leftbtn_2026:hover .elementor-button,
+#footer_rightbtn_2026:hover .elementor-button {
+    transform: translateY(-2px);
+}
+#menu_download_btn_2026:hover .elementor-button {
+    transform: translateY(2px);
+}
+/* 2026 Start */
 /* MEDIA */
 @media screen and (max-width: 3850px) {
     #print-section {

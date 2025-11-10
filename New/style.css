@@ -730,6 +730,7 @@ u {
   width: 100%;
   text-align: center;
   top: 25px;
+  left: 0;
   font-weight: 500;
 }
 #footer_leftbtn_2026 .elementor-icon-wrapper,
@@ -744,14 +745,17 @@ u {
   transition: all 0.3s ease-in-out;
   border-radius: 0 !important;
 }
+#print_icon .elementor-shortcode,
+#footer_leftbtn_2026 .elementor-icon-wrapper,
+#footer_rightbtn_2026 .elementor-icon-wrapper,
 #menu_download_btn_2026 .elementor-button {
   background-image: url("https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/download-pdf.jpg");
 }
-#print_icon .elementor-shortcode,
+/* #print_icon .elementor-shortcode,
 #footer_leftbtn_2026 .elementor-icon-wrapper,
 #footer_rightbtn_2026 .elementor-icon-wrapper {
   background-image: url("https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/print-btn.png");
-}
+} */
 #footer_leftbtn_2026 .elementor-icon-wrapper,
 #footer_rightbtn_2026 .elementor-icon-wrapper {
   display: flex;
@@ -773,7 +777,7 @@ u {
   margin: 0;
 }
 #ceo_video_2026 {
-  width: 740px;
+  width: 790px;
 }
 .ceo_p .elementor-element sup {
   font-size: 40px;
@@ -791,20 +795,23 @@ u {
 /* 2026 End */
 /* MEDIA */
 @media screen and (max-width: 3850px) {
+  #print_icon .elementor-shortcode,
+  #footer_leftbtn_2026 .elementor-icon-wrapper,
+  #footer_rightbtn_2026 .elementor-icon-wrapper,
   #menu_download_btn_2026 .elementor-button {
     width: 272px;
     height: 90px;
     padding: 30px 10px;
   }
-  #print_icon .elementor-shortcode,
+  /* #print_icon .elementor-shortcode,
   #footer_leftbtn_2026 .elementor-icon-wrapper,
   #footer_rightbtn_2026 .elementor-icon-wrapper {
     width: 167px;
     height: 90px;
     padding: 30px 0;
-  }
+  } */
   #scroll_col .elementor-widget-wrap {
-    height: 1050px;
+    height: 1020px;
   }
 
   #print-section {
@@ -898,7 +905,7 @@ u {
     } */
 
   #scroll_col .elementor-widget-wrap {
-    height: 800px;
+    height: 770px;
   }
 
   #scroll_mini #scroll_col .elementor-widget-wrap {
@@ -907,18 +914,21 @@ u {
 }
 
 @media screen and (max-width: 2560px) {
+  #print_icon .elementor-shortcode,
+  #footer_leftbtn_2026 .elementor-icon-wrapper,
+  #footer_rightbtn_2026 .elementor-icon-wrapper,
   #menu_download_btn_2026 .elementor-button {
     width: 181px;
     height: 60px;
     padding: 20px 10px;
   }
-  #print_icon .elementor-shortcode,
+  /* #print_icon .elementor-shortcode,
   #footer_leftbtn_2026 .elementor-icon-wrapper,
   #footer_rightbtn_2026 .elementor-icon-wrapper {
     width: 111px;
     height: 60px;
     padding: 20px 0;
-  }
+  } */
   #print_icon .pom-default:before {
     top: 16px;
     font-size: 20px;
@@ -940,13 +950,13 @@ u {
     padding: 0 35px;
   }
   #scroll_col .elementor-widget-wrap {
-    height: 650px;
+    height: 620px;
   }
   #ceo_video_2026 {
-    width: 650px;
+    width: 700px;
   }
   #ceo_coin_2026 .elementor-widget-container img {
-    width: 350px;
+    width: 370px;
   }
   #heading_2026 h1 {
     font-size: 50px !important;
@@ -1096,7 +1106,7 @@ u {
 
 @media screen and (max-width: 2160px) {
   #scroll_col .elementor-widget-wrap {
-    height: 500px;
+    height: 470px;
   }
 
   .side_pera_text .elementor-widget-container p {
@@ -1118,13 +1128,13 @@ u {
 
 @media screen and (max-width: 1920px) {
   #scroll_col .elementor-widget-wrap {
-    height: 410px;
+    height: 380px;
   }
   #ceo_coin_2026 .elementor-widget-container img {
-    width: 280px;
+    width: 300px;
   }
   #ceo_video_2026 {
-    width: 500px;
+    width: 530px;
   }
   #ceo_dis_box_2026 .elementor-icon-box-title {
     font-size: 26px;
@@ -1266,6 +1276,15 @@ u {
 }
 
 @media screen and (max-width: 1680px) {
+  #ceo_coin_2026 .elementor-widget-container img {
+    width: 280px;
+  }
+  #ceo_video_2026 {
+    width: 500px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h3 {
+    font-size: 26px;
+  }
   #footer_heading .elementor-heading-title {
     font-size: 18px;
   }
@@ -1339,17 +1358,29 @@ u {
   #footer_rightbtn_2026 .elementor-icon-wrapper .elementor-icon {
     font-size: 24px;
   }
+  #ceo_video_2026 {
+    width: 450px;
+  }
+  #ceo_coin_2026 .elementor-widget-container img {
+    width: 245px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h3 {
+    font-size: 24px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h5 {
+    font-size: 16px;
+  }
+  #scroll_col .elementor-widget-wrap {
+    height: 280px;
+  }
+  #black_strip_con_2026 {
+    padding: 90px 50px 90px 50px;
+  }
   #heading_2026 h1 {
     font-size: 30px !important;
   }
   #ceo_content_con_2026 > .elementor-widget-wrap {
     margin: 85px 40px 0 20px;
-  }
-  #ceo_coin_2026 .elementor-widget-container img {
-    width: 250px;
-  }
-  #ceo_video_2026 {
-    width: 450px;
   }
   #ceo_dis_box_2026 .elementor-icon-box-title {
     font-size: 22px;
@@ -1371,7 +1402,7 @@ u {
   }
   #ceo_dis_box_2026 .elementor-widget-container {
     margin-top: -140px !important;
-}
+  }
   /* #new_color_palets {
         width: 100px;
     } */
@@ -1382,6 +1413,18 @@ u {
 }
 
 @media screen and (max-width: 1536px) {
+  #black_strip_con_2026 {
+    padding: 75px 50px 75px 50px;
+  }
+  #scroll_col .elementor-widget-wrap {
+    height: 250px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h5 {
+    font-size: 14px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h3 {
+    font-size: 22px;
+  }
   #print_icon .pom-default:before,
   #menu_download_btn_2026 .elementor-button .elementor-button-content-wrapper {
     font-size: 16px;
@@ -1394,19 +1437,16 @@ u {
     padding: 0 25px;
   }
   #ceo_video_2026 {
-    width: 300px;
+    width: 330px;
   }
   #ceo_coin_2026 .elementor-widget-container img {
-    width: 165px;
+    width: 175px;
   }
   #ceo_dis_box_2026 .elementor-icon-box-title {
     font-size: 18px;
   }
   #ceo_dis_box_2026 .elementor-icon-box-description {
     font-size: 14px;
-  }
-  #scroll_col .elementor-widget-wrap {
-    height: 300px;
   }
   #heading_2026 .elementor-widget-container {
     padding: 0;
@@ -1466,7 +1506,12 @@ u {
   #scroll_col .elementor-widget-wrap {
     height: 300px;
   }
-
+  #footer_leftbtn_2026 .elementor-icon-wrapper,
+  #footer_rightbtn_2026 .elementor-icon-wrapper,
+  #menu_download_btn_2026 .elementor-button,
+  #print_icon .elementor-shortcode {
+    width: 160px;
+  }
   .contact_img .elementor-widget-container img {
     height: 80px !important;
   }
@@ -1511,11 +1556,6 @@ u {
   .celebrating_text {
     font-size: 14px !important;
   }
-  /* 
-    #new_color_palets {
-        width: 90px;
-    } */
-
   #print-section {
     margin-top: -1600px;
   }
@@ -1534,10 +1574,6 @@ u {
   #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
     font-size: 20px !important;
   }
-
-  /* .elementor-262 .elementor-element.elementor-element-2a481bf {
-    padding-top: 5% !important;
-  } */
 }
 
 @media screen and (max-width: 1400px) and (max-height: 1216px) {
@@ -1545,19 +1581,32 @@ u {
 
 @media screen and (max-width: 1367px) {
   #ceo_dis_box_2026 .elementor-icon-box-title {
-        font-size: 16px;
-    }
-    #ceo_dis_box_2026 .elementor-icon-box-description {
-        font-size: 12px;
-    }
-  #scroll_col .elementor-widget-wrap {
-    height: 250px;
+    font-size: 16px;
   }
-
+  #ceo_dis_box_2026 .elementor-icon-box-description {
+    font-size: 12px;
+  }
+  #scroll_col .elementor-widget-wrap {
+    height: 225px;
+  }
+  #ceo_video_2026 {
+    width: 310px;
+  }
+  #ceo_coin_2026 .elementor-widget-container img {
+    width: 170px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h3 {
+    font-size: 20px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h5 {
+    font-size: 12px;
+  }
   #heading_2026 h1 {
     font-size: 25px !important;
   }
-
+  #black_strip_con_2026 {
+    padding: 65px 50px 65px 50px;
+  }
   .way_page_heading,
   #scroll_col .elementor-widget-wrap .elementor-widget-text-editor {
     font-size: 14px !important;
@@ -1666,7 +1715,7 @@ u {
   #ofltd_main_header ul.elementor-nav-menu li a {
     font-size: 13px;
     padding: 0 25px;
-  }  
+  }
   /* #btns_col a.elementor-button,
     #print_icon .pom-default:before {
         font-size: 13px;
@@ -1724,6 +1773,12 @@ u {
 
   #heading_plus_nav .elementor-heading-title {
     font-size: 22px;
+  }
+  #footer_leftbtn_2026 .elementor-icon-wrapper,
+  #footer_rightbtn_2026 .elementor-icon-wrapper,
+  #menu_download_btn_2026 .elementor-button,
+  #print_icon .elementor-shortcode {
+    width: 150px;
   }
 }
 

@@ -1321,7 +1321,7 @@ u {
   #menu_download_btn_2026 .elementor-button,
   #print_icon .elementor-shortcode {
     width: 160px;
-    height: 55px;
+    height: 54px;
   }
   #scroll_col .elementor-widget-wrap {
     height: 300px;
@@ -1596,32 +1596,50 @@ u {
     height: 1100px;
     margin-bottom: 30px;
   }
-  #main_con_2026.why_page_2026 #full_img_con_2026,
-  #main_con_2026.way_page_2026 #full_img_con_2026{
+  #main_con_2026.why_page_2026 #full_img_con_2026{
     width: 100%;
     height: 1100px;
     margin-top: 30px;
-  }  
-  #main_con_2026.why_page_2026.independent_by_design  #full_content_con_2026{
-    height: auto;
-  }
+  }   
   .why_page_2026 #scroll_col .elementor-widget-wrap,
   .way_page_2026 #scroll_col .elementor-widget-wrap,
   #scroll_col .elementor-widget-wrap {
     height: inherit;
   }
+  #person_degination_con_2026{
+    width: 40%;
+  } 
   #scroll_col {
     overflow: initial !important;
     position: relative !important;
+  }   
+  #main_con_2026.way_page_2026.private_marktse  #full_content_con_2026,
+  #main_con_2026.why_page_2026.anchored_in_indeepen  #full_content_con_2026,
+  #main_con_2026.why_page_2026.independent_by_design  #full_content_con_2026{
+    height: auto;
   }
+  #main_con_2026.way_page_2026.private_marktse > .elementor-container,
+  #main_con_2026.why_page_2026.anchored_in_indeepen > .elementor-container,
   #main_con_2026.why_page_2026.independent_by_design > .elementor-container{
     flex-direction: column-reverse;
-  }
-  #person_degination_con_2026{
-    width: 40%;
-  }
-  
+  } 
+  /* way  */
+  #main_con_2026.way_page_2026 #full_img_con_2026 {
+        width: 100%;
+        height: 1500px;
+        margin-top: 30px;
+    }
   /* 2026 */
+}
+@media screen and (max-width: 1281px) and (min-height: 1750px){
+  #main_con_2026.why_page_2026.elevating_every_client,
+  #main_con_2026.why_page_2026.independent_by_design{
+    height: calc(100vh-98px);
+  }
+  #main_con_2026.why_page_2026.elevating_every_client #full_img_con_2026 ,
+  #main_con_2026.why_page_2026.independent_by_design #full_img_con_2026 {
+    height: 70vh;
+  }
 }
 @media screen and (max-width: 1279px) {
   #ofltd_main_header_2026 {
@@ -1631,6 +1649,10 @@ u {
     position: static !important;
     width: 100%;
     bottom: 0;
+  }
+  .home #ofltd_main_header_2026,
+  .home .elementor-location-footer {
+    position: fixed !important;
   }
   .page .elementor-section.elementor-section-height-full {
     height: auto;
@@ -1655,14 +1677,16 @@ u {
   }
   #main_con_2026.why_page_2026 #full_img_con_2026 {
     width: 100%;
-    height: 750px;
+    height: 755px;
     margin-top: 60px;
   }
   #main_con_2026.way_page_2026 #full_img_con_2026 {
-    height: 1200px;
+    height: 1050px;
     width: 100%;
     margin-top: 60px;
   }
+  #main_con_2026.way_page_2026.private_marktse > .elementor-container,
+  #main_con_2026.why_page_2026.anchored_in_indeepen > .elementor-container,
   #main_con_2026.why_page_2026.independent_by_design > .elementor-container{
     flex-direction: column;
   }
@@ -1680,7 +1704,7 @@ u {
     width: 40%;
   }
   #black_strip_con_2026.why_img_black_strip_2026 {
-    padding: 40px 50px 55px 40px;
+    padding: 55px 50px 55px 50px;
   }
   /* 2026 */
   #scroll_col .elementor-widget-wrap {
@@ -1800,9 +1824,20 @@ u {
   }
 }
 @media screen and (max-width: 1200px) and (min-height: 1550px) {  
+  
+  #main_con_2026.why_page_2026.people_make_diff,
+  #main_con_2026.why_page_2026.anchored_in_indeepen,
+  #main_con_2026.why_page_2026.elevating_every_client,
   #main_con_2026.why_page_2026.independent_by_design{
     height: 100vh;
   }
+  #main_con_2026.why_page_2026.elevating_every_client #full_img_con_2026 {
+    height: 68vh;
+  }
+  #main_con_2026.why_page_2026.anchored_in_indeepen #full_img_con_2026{
+    height: 60vh;
+  }
+  #main_con_2026.why_page_2026.people_make_diff #full_img_con_2026 ,
   #main_con_2026.why_page_2026.independent_by_design #full_img_con_2026 {
     height: 65vh;
   }
@@ -1811,9 +1846,11 @@ u {
   #home_logo_2026 img {
     width: 645px;
   }
-  #main_con_2026.ceo_page_2026 #full_img_con_2026,
-  #main_con_2026.way_page_2026 #full_img_con_2026 {
+  #main_con_2026.ceo_page_2026 #full_img_con_2026{
     height: 1100px;
+  }
+  #main_con_2026.way_page_2026 #full_img_con_2026 {
+    height: 900px;
   }
   /* 2026 */
 }
@@ -1824,9 +1861,12 @@ u {
   #heading_2026 h1 {
     font-size: 24px !important;
   }
-  #main_con_2026.ceo_page_2026 #full_img_con_2026,
-  #main_con_2026.way_page_2026 #full_img_con_2026 {
+  #main_con_2026.ceo_page_2026 #full_img_con_2026{
         height: 900px;
+  }
+  #main_con_2026.way_page_2026 #full_img_con_2026,
+  #main_con_2026.why_page_2026 #full_img_con_2026 {
+        height: 760px;
   }
   /* 2026 */
   #celebrayion_img_con .elementor-container {
@@ -1835,6 +1875,11 @@ u {
   #celebrayion_img_con .elementor-container #celebrayion_img_con_colone,
   #celebrayion_img_con .elementor-container #celebrayion_img_con_coltwo {
     width: 100%;
+  }
+}
+@media screen and (max-width: 1024px) and (min-height: 1360px) {
+  #main_con_2026.why_page_2026.elevating_every_client #full_img_con_2026{
+    height: 802px;
   }
 }
 @media screen and (max-width: 932px){
@@ -1850,6 +1895,9 @@ u {
   #person_degination_con_2026 {
     width: 50%;
   }
+  #main_con_2026.way_page_2026 #full_img_con_2026 {
+        height: 600px;
+    }
   /* 2026 */
 }
 @media screen and (max-width: 932px) and (orientation: landscape) {
@@ -1901,6 +1949,11 @@ u {
   }
   /* 2026 */
 }
+@media screen and (max-width: 800px) and (min-height: 1270px) {
+  #main_con_2026.why_page_2026 #full_img_con_2026 {
+    height: 700px;
+  }
+}
 @media screen and (max-width: 769px) {
   #home_logo_2026 img {
     width: 370px;
@@ -1930,9 +1983,12 @@ u {
     height: 700px;
     margin-bottom: 30px;
   }
-  #main_con_2026.why_page_2026 #full_img_con_2026,  
-  #main_con_2026.way_page_2026 #full_img_con_2026 {
+  #main_con_2026.why_page_2026 #full_img_con_2026{
     height: 700px;
+    margin-top: 30px;
+  }  
+  #main_con_2026.way_page_2026 #full_img_con_2026 {
+    height: 900px;
     margin-top: 30px;
   }
   #person_degination_con_2026 {
@@ -1962,6 +2018,9 @@ u {
   #person_degination_con_2026 {
     width: 70%;
   }
+  #scroll_col .elementor-widget-container p {
+        margin-bottom: 10px;
+    }
   /* 2026 */ 
   #dir_click_info .director_details {
     width: 400px;
@@ -2195,6 +2254,13 @@ u {
   .elementor-2006 .elementor-element.elementor-element-10cb016 .elementor-nav-menu__container.elementor-nav-menu--dropdown {
     margin-top: 4px !important;
   }
+  #person_degination_con_2026 {
+        width: 100%;
+    }
+        #black_strip_con_2026.why_img_black_strip_2026 {
+        padding: 30px 20px 30px 20px;
+    }
+    /* 2026 */
 }
 @media screen and (max-width: 413px) {
   #person_degination_con_2026 .person_degination_title_2026 h5 {
@@ -2250,5 +2316,8 @@ u {
   #ceo_coin_2026 .elementor-widget-container{
     margin: 10px 0 0;
   }
+  #main_con_2026.way_page_2026 #full_img_con_2026 {
+        height: 500px;
+    }
   /* 2026 */
 }

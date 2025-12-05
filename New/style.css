@@ -97,15 +97,11 @@ sup {
 .cbxtakeatour_popover .btn-group-vertical {
   display: none;
 }
-.cbxtakeatour_popover[class*="tour-"]
-  .cbxtakeatour_popover-navigation
-  [data-role="end"] {
+.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation [data-role="end"] {
   visibility: hidden;
   position: relative;
 }
-.cbxtakeatour_popover[class*="tour-"]
-  .cbxtakeatour_popover-navigation
-  [data-role="end"]:after {
+.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation [data-role="end"]:after {
   visibility: visible;
   position: absolute;
   top: 0;
@@ -118,23 +114,10 @@ sup {
 .cbxtakeatour_popover .cbxtakeatour_popover-body {
   color: #fff;
 }
-.cbxtakeatour_popover.bs-cbxtakeatour_popover-auto[x-placement^="left"]
-  .cbxtatarrow::after,
+.cbxtakeatour_popover.bs-cbxtakeatour_popover-auto[x-placement^="left"] .cbxtatarrow::after,
 .cbxtakeatour_popover.bs-cbxtakeatour_popover-left .cbxtatarrow::after {
   border-left-color: #626366;
 }
-/* #leadership_content #slide_1,
-#leadership_content #slide_2,
-#leadership_content #slide_3,
-#leadership_content #slide_4 {
-  padding: 20px;
-  background: url(https://2026.ofgltd.com/wp-content/uploads/sites/17/2023/11/team-heading-bg.png);
-  min-height: 60px;
-  background-position: center center;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  margin-top: -7px;
-} */
 .elementor-element.elementor-widget-hotspot {
   display: none;
   margin-bottom: 0;
@@ -242,10 +225,7 @@ sup {
   flex-direction: column-reverse;
   display: flex;
 }
-#advice_top_talent
-  #image_width
-  .elementor-widget-testimonial
-  .elementor-testimonial-content {
+#advice_top_talent #image_width .elementor-widget-testimonial .elementor-testimonial-content {
   text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
   -moz-text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
   -webkit-text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
@@ -294,39 +274,15 @@ sup {
   padding: 15px;
   min-height: 50px;
 }
-#contact_form
-  .elementor-widget-container
-  .elementor-form
-  .elementor-form-fields-wrapper
-  label {
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper label {
   display: none;
 }
-#contact_form
-  .elementor-widget-container
-  .elementor-form
-  .elementor-form-fields-wrapper
-  .elementor-field-group-field_f413d12
-  label,
-#contact_form
-  .elementor-widget-container
-  .elementor-form
-  .elementor-form-fields-wrapper
-  .elementor-field-group-field_8985cd0
-  label {
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_f413d12 label,
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_8985cd0 label {
   display: inline-block !important;
 }
-#contact_form
-  .elementor-widget-container
-  .elementor-form
-  .elementor-form-fields-wrapper
-  .elementor-field-group-field_f413d12
-  > label,
-#contact_form
-  .elementor-widget-container
-  .elementor-form
-  .elementor-form-fields-wrapper
-  .elementor-field-group-field_8985cd0
-  > label {
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_f413d12 > label,
+#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_8985cd0 > label {
   font-weight: 800;
 }
 .elementor-field-group-field_8985cd0 {
@@ -359,11 +315,6 @@ u {
 #leadership_img {
   min-height: 78vh !important;
 }
-/* #dynasty_trust img {
-  width: 75%;
-  padding-left: 8%;
-} */
-
 /* 2026 Start */
 
 /* Reuse CSS Start */
@@ -446,24 +397,16 @@ u {
 .scrollbar-inner > .scroll-element.scroll-draggable .scroll-bar {
   background-color: #808080;
 }
-.scrollbar-inner
-  > .scroll-element.scroll-x.scroll-scrolly_visible
-  .scroll-element_track {
+.scrollbar-inner > .scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_track {
   left: -12px;
 }
-.scrollbar-inner
-  > .scroll-element.scroll-y.scroll-scrollx_visible
-  .scroll-element_track {
+.scrollbar-inner > .scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_track {
   top: -12px;
 }
-.scrollbar-inner
-  > .scroll-element.scroll-x.scroll-scrolly_visible
-  .scroll-element_size {
+.scrollbar-inner > .scroll-element.scroll-x.scroll-scrolly_visible .scroll-element_size {
   left: -12px;
 }
-.scrollbar-inner
-  > .scroll-element.scroll-y.scroll-scrollx_visible
-  .scroll-element_size {
+.scrollbar-inner > .scroll-element.scroll-y.scroll-scrollx_visible .scroll-element_size {
   top: -12px;
 }
 #scroll_col .elementor-widget-wrap {
@@ -638,9 +581,7 @@ u {
   background-repeat: no-repeat;
   background-position: center;
 }
-#leadership_img
-  .e-hotspot.e-hotspot--icon.e-hotspot--active
-  .e-hotspot__button {
+#leadership_img .e-hotspot.e-hotspot--icon.e-hotspot--active .e-hotspot__button {
   background-image: url("https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/rounded-button-2.png");
 }
 #leadership_img .e-hotspot.e-hotspot--icon i.fa-dot-circle {
@@ -786,9 +727,7 @@ u {
     font-size: 36px !important;
     top: 0;
   }
-  .elementor-782
-    .elementor-element.elementor-element-89ef1e1
-    .elementor-heading-title {
+  .elementor-782 .elementor-element.elementor-element-89ef1e1  .elementor-heading-title {
     width: 65%;
   }
   .enquiry {
@@ -1947,6 +1886,9 @@ u {
   #main_con_2026.way_page_2026.turning_tax #full_img_con_2026 {
     height: 615px;
   }
+  #leadership_img {
+    min-height: 40vh !important;
+  }
 }
 @media screen and (max-device-width: 1200px) and (orientation: landscape) {
   .elementor-4255 .elementor-element.elementor-element-6113608,
@@ -2009,7 +1951,7 @@ u {
   }
   #main_con_2026.way_page_2026 .way_img_title_2026 h3 {
     font-size: 16px;
-  }  
+  }
   #leadership_img .e-hotspot.e-hotspot--icon .e-hotspot__button {
     width: 12px;
     height: 12px;
@@ -2024,8 +1966,8 @@ u {
     height: 802px;
   }
   #leadership_img {
-        min-height: 40vh !important;
-    }
+    min-height: 40vh !important;
+  }
 }
 @media screen and (max-width: 1024px) and (max-height: 601px) {
   #leadership_img {
@@ -2035,10 +1977,10 @@ u {
   #dir_click_info .director_details h3 {
     font-size: 12px;
   }
-  #dir_click_info .director_details{
+  #dir_click_info .director_details {
     margin-top: 0;
   }
-  #leadership> .elementor-container{
+  #leadership > .elementor-container {
     align-items: flex-start;
   }
 }
@@ -2084,14 +2026,6 @@ u {
   #main_con_2026.way_page_2026.building_legacy #full_img_con_2026 {
     height: 470px;
   }
-  #leadership{
-    height: 100%;
-  }
-   #leadership_img {
-   width: 100% !important;
-        min-height: 100vh !important;
-        height: 500px;
-  }
   /* 2026 */
 }
 @media screen and (max-width: 932px) and (orientation: landscape) {
@@ -2110,13 +2044,37 @@ u {
   #menu_download_btn_2026 .elementor-button {
     padding: 16px 10px;
   }
+  #leadership {
+    height: 100%;
+  }
+  #leadership_img {
+    width: 100% !important;
+    min-height: 100vh !important;
+    height: 500px;
+  }
+  #footer_leftbtn_2026 .elementor-icon-wrapper a,
+  #footer_rightbtn_2026 .elementor-icon-wrapper a,
+  #menu_download_btn_2026 .elementor-button,
+  #print_icon .elementor-shortcode {
+    width: 110px !important;
+    height: 41px !important;
+  }
+  #print_icon .pom-default:before {
+    font-size: 13px !important;
+  }
+  #menu_download_btn_2026 .elementor-button .elementor-button-content-wrapper {
+    font-size: 12px !important;
+  }
+  #ofltd_main_header_2026 .elementor-widget-image img {
+    width: 40px !important;
+  }
   /* 2026 */
 }
 @media screen and (max-width: 908px) {
   #home_logo_2026 img {
     width: 360px;
   }
-   #leadership {
+  #leadership {
     height: 100vh;
   }
   #leadership_img {
@@ -2169,6 +2127,9 @@ u {
   #conclusions_page .elementor-widget-wrap.elementor-element-populated {
     padding-bottom: 5%;
   }
+  #leadership {
+    height: 100%;
+  }
 }
 @media screen and (max-width: 844px) {
   #footer_heading .elementor-heading-title {
@@ -2188,7 +2149,7 @@ u {
   }
   #main_con_2026.way_page_2026.building_legacy #full_img_con_2026 {
     height: 420px;
-  } 
+  }
   /* 2026 */
 }
 @media screen and (max-width: 800px) and (min-height: 1270px) {
@@ -2357,7 +2318,7 @@ u {
     order: 1;
   }
 }
-@media screen and (max-width: 769px) and (orientation: landscape){
+@media screen and (max-width: 769px) and (orientation: landscape) {
   #leadership {
     height: 100%;
   }
@@ -2396,6 +2357,12 @@ u {
   }
   #main_con_2026.way_page_2026.private_marktse .way_img_title_top_2026 {
     bottom: 40%;
+  }
+  #leadership > .elementor-container {
+    height: 100%;
+  }
+  #leadership_img {
+    height: 42vh !important;
   }
 }
 @media screen and (max-width: 668px) {

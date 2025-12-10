@@ -1059,6 +1059,9 @@ u {
     font-size: 16px;
     padding: 0 30px;
   }
+      #leadership_img {
+        min-height: 55vh !important;
+    }
   /* 2026 */
   .celebrating,
   .aspirational {
@@ -1126,6 +1129,9 @@ u {
   }
   #slide_nav ul li {
     padding: 3px;
+  }
+  #leadership_img {
+    min-height: 70vh !important;
   }
   /* 2026 */
   #banner_art_text img {

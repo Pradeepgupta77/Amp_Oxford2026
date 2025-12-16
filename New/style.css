@@ -97,11 +97,15 @@ sup {
 .cbxtakeatour_popover .btn-group-vertical {
   display: none;
 }
-.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation [data-role="end"] {
+.cbxtakeatour_popover[class*="tour-"]
+  .cbxtakeatour_popover-navigation
+  [data-role="end"] {
   visibility: hidden;
   position: relative;
 }
-.cbxtakeatour_popover[class*="tour-"] .cbxtakeatour_popover-navigation [data-role="end"]:after {
+.cbxtakeatour_popover[class*="tour-"]
+  .cbxtakeatour_popover-navigation
+  [data-role="end"]:after {
   visibility: visible;
   position: absolute;
   top: 0;
@@ -114,7 +118,8 @@ sup {
 .cbxtakeatour_popover .cbxtakeatour_popover-body {
   color: #fff;
 }
-.cbxtakeatour_popover.bs-cbxtakeatour_popover-auto[x-placement^="left"] .cbxtatarrow::after,
+.cbxtakeatour_popover.bs-cbxtakeatour_popover-auto[x-placement^="left"]
+  .cbxtatarrow::after,
 .cbxtakeatour_popover.bs-cbxtakeatour_popover-left .cbxtatarrow::after {
   border-left-color: #626366;
 }
@@ -225,7 +230,10 @@ sup {
   flex-direction: column-reverse;
   display: flex;
 }
-#advice_top_talent #image_width .elementor-widget-testimonial  .elementor-testimonial-content {
+#advice_top_talent
+  #image_width
+  .elementor-widget-testimonial
+  .elementor-testimonial-content {
   text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
   -moz-text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
   -webkit-text-shadow: 0px 0px 10px rgb(0 0 0 / 80%);
@@ -274,15 +282,39 @@ sup {
   padding: 15px;
   min-height: 50px;
 }
-#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper  label {
+#contact_form
+  .elementor-widget-container
+  .elementor-form
+  .elementor-form-fields-wrapper
+  label {
   display: none;
 }
-#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_f413d12 label,
-#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_8985cd0 label {
+#contact_form
+  .elementor-widget-container
+  .elementor-form
+  .elementor-form-fields-wrapper
+  .elementor-field-group-field_f413d12
+  label,
+#contact_form
+  .elementor-widget-container
+  .elementor-form
+  .elementor-form-fields-wrapper
+  .elementor-field-group-field_8985cd0
+  label {
   display: inline-block !important;
 }
-#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_f413d12 > label,
-#contact_form .elementor-widget-container .elementor-form .elementor-form-fields-wrapper .elementor-field-group-field_8985cd0 > label {
+#contact_form
+  .elementor-widget-container
+  .elementor-form
+  .elementor-form-fields-wrapper
+  .elementor-field-group-field_f413d12
+  > label,
+#contact_form
+  .elementor-widget-container
+  .elementor-form
+  .elementor-form-fields-wrapper
+  .elementor-field-group-field_8985cd0
+  > label {
   font-weight: 800;
 }
 .elementor-field-group-field_8985cd0 {
@@ -589,7 +621,9 @@ u {
   background-repeat: no-repeat;
   background-position: center;
 }
-#leadership_img .e-hotspot.e-hotspot--icon.e-hotspot--active .e-hotspot__button {
+#leadership_img
+  .e-hotspot.e-hotspot--icon.e-hotspot--active
+  .e-hotspot__button {
   background-image: url("https://2026.ofgltd.com/wp-content/uploads/sites/17/2025/11/rounded-button-2.png");
 }
 #leadership_img .e-hotspot.e-hotspot--icon i.fa-dot-circle {
@@ -692,10 +726,20 @@ u {
     padding: 30px 10px;
   }
   #scroll_col .elementor-widget-wrap {
-    height: 1020px;
+    height: 1200px;
   }
   #conclusions_page #scroll_col .elementor-widget-wrap {
     height: 1250px;
+  }
+  #leadership_img .e-hotspot.e-hotspot--icon .e-hotspot__button {
+    width: 25px;
+    height: 25px;
+  }
+  #dir_click_info .director_details h3{
+    font-size: 20px;
+  }
+  .director_details h3 strong{
+    font-size: 18px;
   }
   /* 2026 */
   #print-section {
@@ -738,7 +782,9 @@ u {
     font-size: 36px !important;
     top: 0;
   }
-  .elementor-782 .elementor-element.elementor-element-89ef1e1 .elementor-heading-title {
+  .elementor-782
+    .elementor-element.elementor-element-89ef1e1
+    .elementor-heading-title {
     width: 65%;
   }
   .enquiry {
@@ -757,6 +803,11 @@ u {
   }
   #scroll_mini #scroll_col .elementor-widget-wrap {
     height: 500px !important;
+  }
+}
+@media screen and (max-width: 2800px){
+  #ofltd_main_header_2026 ul.elementor-nav-menu li a{
+    padding: 0 50px;
   }
 }
 @media screen and (max-width: 2560px) {

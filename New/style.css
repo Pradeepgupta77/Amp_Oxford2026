@@ -1872,6 +1872,55 @@ u {
   }
   /*2026*/
 }
+@media screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: landscape) {
+  #leadership_img {
+    min-height: 50vh !important;
+  }
+  .way_page_2026.building_legacy #scroll_col .elementor-widget-wrap,
+  .way_page_2026.future_proofing #scroll_col .elementor-widget-wrap,
+  .way_page_2026.supporting_family #scroll_col .elementor-widget-wrap,
+  .way_page_2026.turning_tax #scroll_col .elementor-widget-wrap,
+  .way_page_2026.finding_the_heart #scroll_col .elementor-widget-wrap,
+  .why_page_2026.anchored_in_indeepen #scroll_col .elementor-widget-wrap {
+    height: 500px;
+  }
+  .way_page_2026.institutional_consulting #scroll_col .elementor-widget-wrap,
+  .way_page_2026.private_marktse #scroll_col .elementor-widget-wrap,
+  .why_page_2026.in_love #scroll_col .elementor-widget-wrap,
+  .way_page_2026.tax_mitigation #scroll_col .elementor-widget-wrap,
+  .way_page_2026.clarity_amid_comp #scroll_col .elementor-widget-wrap,
+  .why_page_2026 #scroll_col .elementor-widget-wrap,
+  .way_page_2026 #scroll_col .elementor-widget-wrap {
+    height: 510px;
+  }
+  #main_con_2026.why_page_2026 #full_content_con_2026,
+  #main_con_2026.ceo_page_2026 #full_content_con_2026,
+  #main_con_2026.way_page_2026 #full_content_con_2026 {
+    width: 55%;
+  }
+  #main_con_2026.why_page_2026 #full_img_con_2026,
+  #main_con_2026.ceo_page_2026 #full_img_con_2026,
+  #main_con_2026.way_page_2026 #full_img_con_2026 {
+    width: 45%;
+  }
+  #main_con_2026.ceo_page_2026 #scroll_col .elementor-widget-wrap {
+    height: 400px;
+  }
+  #conclusions_page #scroll_col .elementor-widget-wrap {
+    height: 600px;
+  }
+  #disclaimers_page #scroll_col .elementor-widget-wrap {
+    height: 620px;
+  }
+  #main_con_2026.way_page_2026 .way_img_title_top_2026 h3,
+  #main_con_2026.way_page_2026 .way_img_title_2026 h3,
+  #person_degination_con_2026 .person_degination_title_2026 h3 {
+    font-size: 16px;
+  }
+  #person_degination_con_2026 .person_degination_title_2026 h5 {
+    font-size: 14px;
+  }
+}
 @media screen and (max-width: 1365px) {
   #menu_download_btn_2026 .elementor-button {
     padding: 22px 10px;
@@ -2544,6 +2593,11 @@ u {
   }
   /* 2026 */
 }
+@media screen and (width: 1106px) and (height: 820px) and (orientation: landscape) {
+  #leadership_img {
+    width: 80vh !important;
+  }
+}
 @media screen and (max-width: 1032px) {
   #leadership_img {
     min-height: 50vh !important;
@@ -3055,10 +3109,28 @@ u {
     padding-top: 10px;
   }
 }
+@media screen and (max-width: 767px) {
+  #leadership > .elementor-container.elementor-column-gap-default {
+    height: 100%;
+  }
+  #main_con_2026.way_page_2026.building_legacy #full_img_con_2026,
+  #main_con_2026.way_page_2026.institutional_consulting #full_img_con_2026,
+  #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026,
+  #main_con_2026.way_page_2026 #full_img_con_2026,
+  #main_con_2026.way_page_2026.turning_tax #full_img_con_2026 {
+    height: 870px;
+  }
+}
 @media screen and (max-width: 766px) {
   .footer {
     padding-top: 0;
   }
+      #contact_page .Contact_box .Contact_content_con .Contact_content_dis {
+        font-size: 12px;
+    }
+        #contact_page .Contact_box .Contact_content_con .Contact_content_heading h3 {
+        font-size: 14px;
+    }
 }
 @media screen and (max-width: 740px) {
   #main_con_2026.way_page_2026.institutional_consulting #full_img_con_2026,
@@ -3099,9 +3171,14 @@ u {
     height: 42vh !important;
   }
 }
+@media screen and (max-width: 700px) and (orientation: landscape) {
+    #contact_page .Contact_box .Contact_content_con .Contact_content_dis {
+        font-size: 10px;
+    }
+}
 @media screen and (max-width: 668px) {
   #home_logo_2026 img {
-    width: 300px;
+    width: 280px;
   }
   #main_con_2026.way_page_2026.turning_tax #full_img_con_2026 {
     height: 800px;
@@ -3189,6 +3266,7 @@ u {
   #main_con_2026.way_page_2026 .way_img_title_2026 h3 {
     font-size: 12px;
   }
+  #main_con_2026.why_page_2026.in_love #full_img_con_2026,
   #main_con_2026.way_page_2026.future_proofing #full_img_con_2026,
   #main_con_2026.way_page_2026.finding_the_heart #full_img_con_2026,
   #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026,
@@ -3335,6 +3413,7 @@ u {
   #main_con_2026.way_page_2026 #full_img_con_2026 {
     height: 515px;
   }
+  #main_con_2026.why_page_2026.in_love #full_img_con_2026,
   #main_con_2026.way_page_2026.institutional_consulting #full_img_con_2026,
   #main_con_2026.way_page_2026.clarity_amid_comp #full_img_con_2026 {
     height: 580px;

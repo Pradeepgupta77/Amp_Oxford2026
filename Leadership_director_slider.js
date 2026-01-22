@@ -391,7 +391,7 @@ jQuery(document).ready(function($){
         $("#slide_2 h3.user_details_14").hide();
     });
     // SLIDE 2 - 11
-    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-44d281e").click(function(){
+    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-de53e6d").click(function(){
       $("#slide_2 h3.user_details_1").hide();
         $("#slide_2 h3.user_details_2").hide();
         $("#slide_2 h3.user_details_3").hide();
@@ -408,7 +408,7 @@ jQuery(document).ready(function($){
         $("#slide_2 h3.user_details_14").hide();
     });
     // SLIDE 2 - 12
-    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-06c977d").click(function(){
+    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-4637db1").click(function(){
       $("#slide_2 h3.user_details_1").hide();
         $("#slide_2 h3.user_details_2").hide();
         $("#slide_2 h3.user_details_3").hide();
@@ -425,7 +425,7 @@ jQuery(document).ready(function($){
         $("#slide_2 h3.user_details_14").hide();
     });
     // SLIDE 2 - 13
-    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-8112e7f").click(function(){
+    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-06c977d").click(function(){
       $("#slide_2 h3.user_details_1").hide();
         $("#slide_2 h3.user_details_2").hide();
         $("#slide_2 h3.user_details_3").hide();
@@ -442,7 +442,7 @@ jQuery(document).ready(function($){
         $("#slide_2 h3.user_details_14").hide();
     });
     // SLIDE 2 - 14
-    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-cec37ac").click(function(){
+    $("#leadership_year_2021 .e-hotspot.elementor-repeater-item-8112e7f").click(function(){
       $("#slide_2 h3.user_details_1").hide();
         $("#slide_2 h3.user_details_2").hide();
         $("#slide_2 h3.user_details_3").hide();

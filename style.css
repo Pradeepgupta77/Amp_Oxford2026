@@ -2299,7 +2299,7 @@ u {
     height: 865px;
   }
   #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026 {
-    height: 520px;
+    height: 640px;
   }
   #main_con_2026.why_page_2026 #full_img_con_2026 {
     width: 100%;
@@ -2486,6 +2486,9 @@ u {
   .oxford_growth_print.oxford_growth_print {
     margin-top: -3100px !important;
   }
+  .page #disclaimers_page.elementor-section.elementor-section-height-full{
+    min-height: 100vh !important;
+  }
 }
 @media screen and (min-width: 1024px) and (max-width: 1278px) and (orientation: landscape) and (hover: none) and (pointer: coarse) {
   #main_con_2026.ceo_page_2026 #full_img_con_2026 {
@@ -2630,11 +2633,11 @@ u {
   #contact_page .Contact_box .Contact_content_con {
     width: 46%;
   }
-  #contact_page
-    .Contact_box.Contact_box_right
-    .Contact_content_con
-    > .elementor-widget-wrap {
+  #contact_page .Contact_box.Contact_box_right .Contact_content_con  > .elementor-widget-wrap {
     padding-left: 25%;
+  }
+  #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026 {
+    margin-top: 40px;
   }
 }
 @media screen and (max-width: 1024px) and (min-height: 1360px) {
@@ -2827,6 +2830,14 @@ u {
   #leadership {
     height: 100%;
   }
+  #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026 {
+    height: 600px !important;
+  } 
+  #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026 {
+    margin-top: 65px;
+  }
+}
+@media screen and (max-width: 932px) and (orientation: landscape) and (hover: none) and (pointer: coarse) {
   #main_con_2026.way_page_2026.tax_mitigation #full_img_con_2026 {
     height: 425px !important;
   }
@@ -3069,6 +3080,9 @@ u {
   }
   .home_footer_btn {
     order: 1;
+  }
+  #contact_page .Contact_box.Contact_box_right .Contact_content_con > .elementor-widget-wrap{
+    padding-left: 0;
   }
 }
 @media screen and (max-width: 769px) and (orientation: landscape) {
